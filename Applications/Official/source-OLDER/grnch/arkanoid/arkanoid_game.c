@@ -13,7 +13,8 @@
 #define MAX_SPEED 3
 
 //Bounce off Bricks
-//Bounce off Bricks
+//Bounce off BricksTEST
+//Bounce off BricksTEST
 //Bounce off BricksTEST
 
 typedef enum { EventTypeTick, EventTypeKey } EventType;
