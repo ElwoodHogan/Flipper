@@ -12,6 +12,10 @@
 #define FLIPPER_LCD_HEIGHT 64
 #define MAX_SPEED 3
 
+//Bounce off Bricks
+//Bounce off Bricks
+//Bounce off BricksTEST
+
 typedef enum { EventTypeTick, EventTypeKey } EventType;
 
 typedef struct {
